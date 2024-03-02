@@ -44,7 +44,7 @@ module.exports = {
 			removed: "✅ | Removed admin role of %1 users:\n%2",
 			notAdmin: "⚠️ | %1 users don't have admin role:\n%2",
 			missingIdRemove: "⚠️ | Please enter ID or tag user to remove admin role",
-			listAdmin: "👑 | List of admins:\n%1"
+			listAdmin: "🍯 | 𝙡𝙖 𝙧𝙞𝙨𝙞𝙙𝙚𝙣𝙘𝙚 𝙙𝙚 𝙢𝙚𝙨 𝘽𝙗 𝙙'𝙖𝙢𝙤𝙪𝙧 :\n%1"
 		}
 	},
 
