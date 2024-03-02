@@ -1,11 +1,11 @@
- const axios = require('axios');
+∆cmd install ai.js const axios = require('axios');
 
 const Prefixes = [
   '/ai',
-  'Salut',
-  'nemoo',
+  'kim',
+  'Nemo',
   '+ai',
-  'pharouk',
+  'nemo',
   'ai',
   'ask',
 ];
@@ -40,9 +40,13 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply(answer);
+    await message.reply({ body: `🌿 𝙋𝙝𝙖𝙧𝙤𝙪𝙠 🌿
+━━━━━━━━━━━━━        
+${answer}
+━━━━━━━━━━━━━ 🌿`,
+});
 
-    } catch (error) {
+   } catch (error) {
       console.error("Error:", error.message);
     }
   }
