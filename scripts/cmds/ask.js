@@ -31,7 +31,10 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("𝙨𝙖𝙡𝙪𝙩 𝙟𝙚 𝙨𝙪𝙞𝙨 💧ᏕᎯᏦᎾᏬᏒ💧 𝙩𝙤𝙣 𝙖𝙢𝙞𝙚 ,𝙟𝙚 𝙨𝙪𝙞𝙨 𝙡à 𝙥𝙤𝙪𝙧 𝙩'𝙖𝙞𝙙𝙚𝙧 ");
+        await message.reply("🍯𝙎𝘼𝙆𝙐𝙍𝘼🍯
+                            
+                            
+                           𝙔𝙊𝙐𝙍 𝙌𝙐𝙀𝙎𝙏𝙊𝙉 ....?");
         return;
       }
 
@@ -40,10 +43,10 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `🌿 𝙋𝙝𝙖𝙧𝙤𝙪𝙠 🌿
+    await message.reply({ body: `🌊 𝙋𝙝𝙖𝙧𝙤𝙪𝙠 🌊
 ━━━━━━━━━━━━━        
 ${answer}
-━━━━━━━━━━━━━ 🌿`,
+━━━━━━━━━━━━━ 🌊`,
 });
 
    } catch (error) {
