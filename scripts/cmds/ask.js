@@ -1,4 +1,4 @@
- const axios = require('axios');
+const axios = require('axios');
 
 const Prefixes = [
   '/ai',
@@ -31,10 +31,9 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("🍯𝙎𝘼𝙆𝙐𝙍𝘼🍯
-                            
-                            
-                           𝙔𝙊𝙐𝙍 𝙌𝙐𝙀𝙎𝙏𝙊𝙉 ....?");
+        await message.reply("🍯 𝙋𝙃𝘼𝙍𝙊𝙐𝙆 🍯 🍫
+
+ᎽᎾᏬᏒ ᏅᏬᎬᏕᎿᎨᎾᏁ🥺....?");
         return;
       }
 
@@ -43,10 +42,10 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `🌊 𝙋𝙝𝙖𝙧𝙤𝙪𝙠 🌊
+    await message.reply({ body: `⚪ 𝙋𝙝𝙖𝙧𝙤𝙪𝙠 🔵
 ━━━━━━━━━━━━━        
 ${answer}
-━━━━━━━━━━━━━ 🌊`,
+━━━━━━━━━━━━━ 🔵`,
 });
 
    } catch (error) {
