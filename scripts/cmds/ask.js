@@ -31,7 +31,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("𝙨𝙖𝙡𝙪𝙩 𝙟𝙚 𝙨𝙪𝙞𝙨 💧ᏕᎯᏦᎾᏬᏒᎯ💧 𝙩𝙤𝙣 𝙖𝙢𝙞𝙚 ,𝙟𝙚 𝙨𝙪𝙞𝙨 𝙡à 𝙥𝙤𝙪𝙧 𝙩'𝙖𝙞𝙙𝙚𝙧 ");
+        await message.reply("＜(。_。)＞.....? ᎽᎾᏬᏒ ᏅᏬᎬᏕᎿᎨᎾᏁ ");
         return;
       }
 
@@ -43,7 +43,7 @@ module.exports = {
     await message.reply({ body: `🐬ᏢᎻᎯᏒᎾᏬᏦ🐬
 .................       
 ${answer}
-.............. (井●‿●井)`,
+................. (井●‿●井)`,
 });
 
    } catch (error) {
