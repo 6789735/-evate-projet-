@@ -3,7 +3,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "[ 🍯 | 𝙋𝙝𝙖𝙧𝙤𝙪𝙠 V2 ]"; // changing this wont change the goatbot V2 of list cmd it is just a decoyy
+const doNotDelete = "[ 🏅 | 𝙋𝙝𝙖𝙧𝙤𝙪𝙠 V2 ]"; // changing this wont change the goatbot V2 of list cmd it is just a decoyy
 
 module.exports = {
   config: {
@@ -34,7 +34,7 @@ module.exports = {
       const categories = {};
       let msg = "";
 
-      msg += `╔═══════════╗\n     🌷ᏕᎯᏦᏬᏒᎯ🌷 ᏨᎷᎠ\n╚═══════════╝`; // replace with your name 
+      msg += `╔═══════════╗\n     🏅ᏕᎯᏦᏬᏒᎯ🏅 ᏨᎷᎠ\n╚═══════════╝`; // replace with your name 
 
       for (const [name, value] of commands) {
         if (value.config.role > 1 && role < value.config.role) continue;
@@ -51,7 +51,7 @@ module.exports = {
 
           const names = categories[category].commands.sort();
           for (let i = 0; i < names.length; i += 3) {
-            const cmds = names.slice(i, i + 1).map((item) => `🔵${item}⚪`);
+            const cmds = names.slice(i, i + 1).map((item) => `🏅${item}🏅`);
             msg += `\n│ ${cmds.join(" ".repeat(Math.max(1, 10 - cmds.join("").length)))}`;
           }
 
@@ -61,15 +61,16 @@ module.exports = {
 
       const totalCommands = commands.size;
       msg += `\nᏠᎬ ᎠᎨᏢᎾᏕᎬ ᎠᎬ ${totalCommands} ᏨᎷᎠ\n\n`;
-      msg += `ᎿᎯᏢᎬᏃ ${prefix} ᎻᎬᏝᏢ + ᏢᏝᏬᏕ ᏝᎬ ᏁᎾᎷ ᎠᎬ ᏝᎯ ᏨᎷᎠ ᏢᎾᏬᏒ ᎬᏁ ᏕᎯᏉᎾᎨᏒ ᏢᏝᏬᏕ Ꭰ'ᎯᏉᎯᏁᎿᎯᎶᎬ ᎬᎿ ᎠᎬ ᏢᎯᏕᏕᎯᎶᎬ Ꮑ'ᎯᏠᎾᏬᎿᎬᏒ ᏢᎯᏕ ᏝᎬ ᏰᎾᎿ ᎠᎯᏁᏕ ᏉᎾᎿᏒᎬ ᎶᏒᎾᏬᏢᎬ ᏕᏉᏢ 🐊🐸\n\n`;
-      msg += `🪶 | 🔸ᏢᎻᎯᏒᎾᏬᏦ V🔹16`; // its not decoy so change it if you want 
+      msg += `ᎿᎯᏢᎬᏃ ${prefix} ᎻᎬᏝᏢ + ᏢᏝᏬᏕ ᏝᎬ ᏁᎾᎷ ᎠᎬ ᏝᎯ ᏨᎷᎠ ᏢᎾᏬᏒ ᎬᏁ ᏕᎯᏉᎾᎨᏒ ᏢᏝᏬᏕ Ꭰ'ᎯᏉᎯᏁᎿᎯᎶᎬ ᎬᎿ ᎠᎬ ᏢᎯᏕᏕᎯᎶᎬ Ꮑ'ᎯᏠᎾᏬᎿᎬᏒ ᏢᎯᏕ ᏝᎬ ᏰᎾᎿ ᎠᎯᏁᏕ ᏉᎾᎿᏒᎬ ᎶᏒᎾᏬᏢᎬ ᏕᏉᏢ ᏢᎾᏬᏒ ᏨᎬᏬᎲ ᏅᏬᎨ ᏉᎬᏬᏝ ᎷᎬ ᏨᎾᏁᎿᎯᏨᎿᎬᏒ ᎿᎯᏢᎬᏃ ∆callad ᎷᎬᏒᏨᎨ ᏰᎬᎯᏬᏨᎾᏬᏢ ξξ(∵◕◡◕∵)ξξ\n\n`;
+      msg += `🏅 | 🏅ᏢᎻᎯᏒᎾᏬᏦ V🏅16`; // its not decoy so change it if you want 
 
       const helpListImages = [
         "https://i.ibb.co/f0fKJDZ/image.jpg", // add image link here
                 "https://i.ibb.co/f0fKJDZ/image.jpg",
         "https://i.ibb.co/f0fKJDZ/image.jpg",
         // Add more image links as needed
-      ];
+     "https://i.ibb.co/H2TXg9S/image.jpg",
+      "https://i.ibb.co/RQMcr2Q/image.jpg",];
 
       const helpListImage = helpListImages[Math.floor(Math.random() * helpListImages.length)];
 
