@@ -13,7 +13,7 @@ module.exports = {
  name: "orochi",
  aliases: [`chi`],
  version: 1.0,
- author: "Aryan Chauhan",
+ author: "pharouk",
  longDescription: "AI",
  category: "CHATGPT",
  guide: {
