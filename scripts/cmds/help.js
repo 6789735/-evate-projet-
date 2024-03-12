@@ -71,8 +71,7 @@ module.exports = {
         // Add more image links as needed
      "https://i.ibb.co/H2TXg9S/image.jpg",
       "https://i.ibb.co/RQMcr2Q/image.jpg",
-      "https//i.ibb.co/YtxdPJb/image.jpg",
-"https://i.ibb.co/LkTxFkn/image.jpg",];
+      "https//i.ibb.co/YtxdPJb/image.jpg",];
 
       const helpListImage = helpListImages[Math.floor(Math.random() * helpListImages.length)];
 
