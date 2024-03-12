@@ -2,10 +2,10 @@ const axios = require('axios');
 
 const Prefixes = [
   '/ai',
-  'kim',
-  'Nemo',
+  'pharouk',
+  'daemon',
   '+ai',
-  'nemo',
+  'pricilia',
   'ai',
   'ask',
 ];
@@ -40,10 +40,10 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `🍯𝙋𝙝𝙖𝙧𝙤𝙪𝙠 🍯
-━━━━━━━━━━━━━        
+    await message.reply({ body: `🐬ᏢᎻᎯᏒᎾᏬᏦ🐬
+.................       
 ${answer}
-━━━━━━━━━━━━━ 🍯`,
+.............. (井●‿●井)`,
 });
 
    } catch (error) {
