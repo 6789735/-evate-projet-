@@ -31,7 +31,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("🏅𝙋𝙝𝙖𝙧𝙤𝙪𝙠🏅 ಥ⁠‿⁠ಥ.......? ᎽᎾᏬᏒ ᏅᏬᎬᏕᎿᎨᎾᏁ");
+        await message.reply("🏅𝙋𝙝𝙖𝙧𝙤𝙪𝙠🏅       ಥ⁠‿⁠ಥ.......? ᎽᎾᏬᏒ ᏅᏬᎬᏕᎿᎨᎾᏁ");
         return;
       }
 
