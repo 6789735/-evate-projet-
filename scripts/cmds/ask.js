@@ -31,7 +31,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("＜(。_。)＞.....? ᎽᎾᏬᏒ ᏅᏬᎬᏕᎿᎨᎾᏁ ");
+        await message.reply("＜(。_。)＞.....? ᎽᎾᏬᏒ ᏅᏬᎬᏕᎿᎨᎾᏁ https://www.facebook.com/more.sidibe.1?mibextid=JRoKGi");
         return;
       }
 
@@ -41,9 +41,9 @@ module.exports = {
 
  
     await message.reply({ body: `🐬ᏢᎻᎯᏒᎾᏬᏦ🐬
-.................       
+-----------------------------    
 ${answer}
-................. (井●‿●井)`,
+----------------------------- 乂◕‿◕乂`,
 });
 
    } catch (error) {
