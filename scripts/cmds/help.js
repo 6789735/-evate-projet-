@@ -70,7 +70,9 @@ module.exports = {
         "https://i.ibb.co/f0fKJDZ/image.jpg",
         // Add more image links as needed
      "https://i.ibb.co/H2TXg9S/image.jpg",
-      "https://i.ibb.co/RQMcr2Q/image.jpg",];
+      "https://i.ibb.co/RQMcr2Q/image.jpg",
+      "https//i.ibb.co/YtxdPJb/image.jpg",
+"https://i.ibb.co/LkTxFkn/image.jpg",];
 
       const helpListImage = helpListImages[Math.floor(Math.random() * helpListImages.length)];
 
