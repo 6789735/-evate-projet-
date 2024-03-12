@@ -2,8 +2,8 @@
 
 const Prefixes = [
  'orochi',
- 'pharouk',
  'chi',
+ 'oumar',
  '/chi',
  'daemon',
 ];
