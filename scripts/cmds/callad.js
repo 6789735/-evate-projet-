@@ -38,13 +38,13 @@ module.exports = {
 			noAdmin: "Hiện tại bot chưa có admin nào"
 		},
 		en: {
-			missingMessage: "Please enter the message you want to send to admin",
+			missingMessage: "𝙎'𝙞𝙡 𝙫𝙤𝙪𝙨 𝙥𝙡𝙖𝙞𝙩 𝙚𝙣𝙩𝙧𝙚𝙧 𝙡𝙖 𝙫𝙤𝙩𝙧𝙚 𝙢𝙚𝙨𝙨𝙖𝙜𝙚 𝙦𝙪𝙚 𝙫𝙤𝙪𝙨 𝙫𝙤𝙪𝙡𝙚𝙯 𝙚𝙣𝙫𝙤𝙮𝙚𝙧 𝙖 𝙢𝙤𝙣 𝙘𝙧𝙚𝙖𝙩𝙚𝙪𝙧🦖",
 			sendByGroup: "\n- Sent from group: %1\n- Thread ID: %2",
 			sendByUser: "\n- Sent from user",
-			content: "\n\nContent:\n─────────────────\n%1\n─────────────────\nReply this message to send message to user",
-			success: "Sent your message to %1 admin successfully!\n%2",
+			content: "\n\nContent:\n─────────────────\n%1\n─────────────────\n𝙍𝙚𝙥𝙡𝙮 𝙩𝙝𝙞𝙨 𝙢𝙚𝙨𝙨𝙖𝙜𝙚 𝙩𝙤 𝙨𝙚𝙣𝙙 𝙢𝙚𝙨𝙨𝙖𝙜𝙚 𝙩𝙤 𝙪𝙨𝙚𝙧😿",
+			success: "𝙢𝙚𝙨𝙨𝙖𝙜𝙚 𝙚𝙣𝙫𝙤𝙮𝙚𝙧 𝙖𝙪 %1 𝙖𝙙𝙢𝙞𝙣 𝙖𝙫𝙚𝙘 𝙨𝙪𝙘𝙘𝙚𝙨𝙨 ! \n%2",
 			failed: "An error occurred while sending your message to %1 admin\n%2\nCheck console for more details",
-			reply: "📍 Reply from admin %1:\n─────────────────\n%2\n─────────────────\nReply this message to continue send message to admin",
+			reply: "💋 𝙍𝙚𝙥𝙡𝙮 𝙩𝙝𝙞𝙨 𝙢𝙚𝙨𝙨𝙖𝙜𝙚  %1:\n─────────────────\n%2\n─────────────────\n𝙧𝙚𝙥𝙡𝙮 𝙩𝙝𝙞𝙨 𝙢𝙚𝙨𝙨𝙖𝙜𝙚 𝙩𝙤 𝙩𝙤 𝙨𝙚𝙣𝙙 𝙢𝙚𝙨𝙨𝙖𝙜𝙚 𝙛𝙧𝙤𝙢 𝙖𝙙𝙢𝙞𝙣",
 			replySuccess: "Sent your reply to admin successfully!",
 			feedback: "📝 Feedback from user %1:\n- User ID: %2%3\n\nContent:\n─────────────────\n%4\n─────────────────\nReply this message to send message to user",
 			replyUserSuccess: "Sent your reply to user successfully!",
@@ -60,7 +60,7 @@ module.exports = {
 		if (config.adminBot.length == 0)
 			return message.reply(getLang("noAdmin"));
 		const senderName = await usersData.getName(senderID);
-		const msg = "==📨️ CALL ADMIN 📨️=="
+		const msg = "==🍫 𝙘𝙖𝙡𝙡 𝙖𝙙𝙢𝙞𝙣 📨🍫=="
 			+ `\n- User Name: ${senderName}`
 			+ `\n- User ID: ${senderID}`
 			+ (isGroup ? getLang("sendByGroup", (await threadsData.get(threadID)).threadName, threadID) : getLang("sendByUser"));
