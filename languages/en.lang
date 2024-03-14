@@ -93,13 +93,13 @@ handlerEvents.userBanned=You have been banned from using the bot\n» Reason: %1\
 handlerEvents.threadBanned=This group has been banned from using the bot\n» Reason: %1\n» Time: %2\n» Thread ID: %3
 handlerEvents.onlyAdminBox=This group is currently enabled only group administrators can use the bot
 handlerEvents.onlyAdminBot=❌ | Currently only bot's admin can use bot
-handlerEvents.commandNotFound=⛔ "%1" 𝙘𝙤𝙢𝙢𝙖𝙣𝙙 𝙙𝙤𝙚𝙨 𝙣𝙤𝙩 𝙚𝙭𝙞𝙨𝙩 🟥\n〉 [%2help🔸] 𝙏𝙊 𝙎𝙀𝙀 𝘾𝙊𝙈𝙈𝘼𝙉𝘿'𝙎 𝘽𝙊𝙏 \n________________________________\n🎖 𝙋𝙃𝘼𝙍𝙊𝙐𝙆🎖️
-handlerEvents.commandNotFound2=🏀𝙊𝙍𝙄𝙂𝙄𝙉𝙀 𝘽𝙊𝙏🏀\n_____________________________________\n〉𝘾𝙍𝙀𝘼𝙏𝙀𝙐𝙍 𝘿𝙐 𝘽𝙊𝙏 :𝐒𝐈𝐃𝐈𝐁𝐄|𝐎𝐔𝐌𝐀𝐑|𝐄𝐋𝐋𝐄 𝐏𝐇𝐀𝐑𝐎𝐔𝐊\n〉ᏝᎨᏁᏦ-ᎰᎯᏨᏰᎾᎾᏦ: \nhttps://www.facebook.com/more.sidibe.1?mibextid=JRoKGi\n〉ᏰᎾᎿ ᏝᎨᏁᏦ:\nhttps://www.facebook.com/profile.php?id=61557025167517\n=========================\n🎖𝐏𝐇𝐀𝐑𝐎𝐔𝐊🎖=𝐏𝐑𝐄𝐅𝐈𝐗:{∆}
-handlerEvents.commandSyntaxError= <🚫𝙒𝙍𝙊𝙉𝙂-𝗦𝙔𝙉𝙏𝘼𝙓🚫>\n_______________________________\n〉ᎿᎽᏢᎬ ≧◔◡◔≦:[%1help %2]\n➤ 𝐓𝐎 𝐒𝐄𝐄 𝐇𝐎𝐖 𝐘𝐎𝐔 𝐂𝐀𝐍 𝐔𝐒 𝐓𝐇𝐈𝐒 𝐂𝐌𝐃 
+handlerEvents.commandNotFound=⛔ "%1" 𝙩𝙝𝙚 𝙘𝙤𝙢𝙢𝙖𝙣𝙙 𝙙𝙤𝙚𝙨 𝙣𝙤𝙩 𝙚𝙭𝙞𝙨𝙩 🅾️\n𝙏𝙔𝙋𝙀 [%2help 🈷] 𝙏𝙊 𝙎𝙀𝙀 𝘽𝙊𝙏'𝙎 𝘾𝙊𝙈𝙈𝘼𝙉𝘿'𝙎\n________________________________\n🎖 𝙋𝙃𝘼𝙍𝙊𝙐𝙆🎖️
+handlerEvents.commandNotFound2=🈲𝙊𝙍𝙄𝙂𝙄𝙉𝙀 𝘽𝙊𝙏🈲\n_________________________________\n〉𝘾𝙍𝙀𝘼𝙏𝙀𝙐𝙍 𝘿𝙐 𝘽𝙊𝙏 :𝙎𝙞𝙙𝙞𝙗𝙚|𝙊𝙪𝙢𝙖𝙧|𝙀𝙡 𝙋𝙝𝙖𝙧𝙤𝙪𝙠\n〉𝙡𝙞𝙣𝙠-𝙁𝘼𝘾𝘽𝙊𝙊𝙆: \nhttps://www.facebook.com/more.sidibe.1?mibextid=JRoKGi\n𝘽𝙊𝙏 𝙇𝙄𝙉𝙆:\nhttps://www.facebook.com/profile.php?id=61557025167517\n=========================\n🎖𝐏𝐇𝐀𝐑𝐎𝐔𝐊🎖=𝐏𝐑𝐄𝐅𝐈𝐗:{∆}
+handlerEvents.commandSyntaxError= <🚫𝙒𝙍𝙊𝙉𝙂-𝗦𝙔𝙉𝙏𝘼𝙓🚫>\n____________________________\n〉𝙏𝙔𝙋𝙀 𝙃𝙀𝙇𝙋:[%1help %2]\n➤ 𝙏𝙊 𝙎𝙀𝙀  𝙏𝙃𝙀 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎 𝙔𝙊𝙐 𝘾𝘼𝙉 𝙐𝙎𝙀 
 handlerEvents.onlyAdmin=❌ | Only group administrators can use the command "%1"
 handlerEvents.onlyAdminToUseOnReply=❌ | Only group administrators can use the reply function of the command "%1"
 handlerEvents.onlyAdminToUseOnReaction=❌ | Only group administrators can use the reaction function of the command "%1"
-handlerEvents.onlyAdminBot2=⛔ | [Only 〉𝐏𝐇𝐀𝐑𝐎𝐔𝐊💢]\n=====================================\n U can't use the command [%1💢] 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐏𝐇𝐀𝐑𝐎𝐔𝐊.
+handlerEvents.onlyAdminBot2=⛔ | [Only 〉𝐏𝐇𝐀𝐑𝐎𝐔𝐊💢]\n..............................\n  can't use the command [%1💢] 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐏𝐇𝐀𝐑𝐎𝐔𝐊.
 handlerEvents.onlyAdminBot2ToUseOnReply=❌ | Only bot's admin can use the reply function of the command "%1"
 handlerEvents.onlyAdminBot2ToUseOnReaction=❌ | Only bot's admin can use the reaction function of the command "%1"
 handlerEvents.waitingForCommand=⏱ You are in the waiting time to use this command, please come back after %1s
