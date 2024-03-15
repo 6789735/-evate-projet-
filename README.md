@@ -1,6 +1,18 @@
-🍯𝙋𝙝𝙖𝙧𝙤𝙪𝙠 🍯
-━━━━━━━━━━━━━        
-Goabot V2 🤖 est le fruit de nombreuses heures de travail acharné et de passion. Ce projet innovant combine l'intelligence artificielle et le machine learning pour offrir aux utilisateurs une expérience unique. Avec sa capacité à apprendre et à s'adapter en temps réel, Goabot V2 est capable de répondre aux besoins de chacun de manière personnalisée. Son interface conviviale et son design futuriste en font un compagnon incontournable pour toutes vos tâches quotidiennes. Rejoignez-nous dans cette aventure passionnante et découvrez les possibilités infinies de Goabot V2! 🔥 #GoabotV2 #innovation #AI #ML #futuretech
-━━━━━━━━━━━━━ 🍯
+#𝗚𝗢𝗔𝗧𝘽𝙊𝙏𝙑2 𝘾𝙍É𝙀𝙍 𝙋𝘼𝙍﹝𝗡𝗧𝗞𝗛𝗔𝗡𝗚﹞
+# PROJECT CREATOR</h1>
+<img                                  src="https://i.ibb.co/FqCVKJJ/image.jpg"                                    alt="banner">   
+<h1 align="center"><img               src="https://i.ibb.co/H2TXg9S/image.jpg" width="22px">
 
-Facebook link https://www.facebook.com/more.sidibe.1?mibextid=JRoKGi
+# 𝙁𝘼𝘾𝘽𝙊𝙊𝙆 🎖PROFILE PHOTO</h1>
+<img                                  src="https://i.ibb.co/q1vtz6Q/image.jpg">
+<h1 align="center"><img               src="https://i.ibb.co/q1vtz6Q/image.jpg" width="22px">
+
+# 𝙋𝙃𝘼𝙍𝙊𝙐𝙆 {lycée moderne2 de soubré} 𝙈𝙔 𝙎𝘾𝙃𝙊𝙊𝙇                  𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉:</h1>
+# 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 𝐌𝐄𝐒𝐒𝐄𝐍𝐆𝐄𝐑 
+# 𝙊𝙒𝙉𝙀𝙍: 🎖𝙋𝙃𝘼𝙍𝙊𝙐𝙆🎖
+# 𝙫𝙤𝙪𝙨 𝙖𝙫𝙚𝙯 𝙡𝙖 𝙥𝙚𝙧𝙢𝙞𝙨𝙨𝙞𝙤𝙣 𝙙𝙚 𝙛𝙤𝙪𝙧𝙘𝙝𝙚𝙧 𝙢𝙤𝙣 𝙗𝙤𝙩 𝙢𝙖𝙞𝙨 𝙧𝙚𝙥𝙚𝙘𝙩𝙚𝙧 𝙡𝙚𝙨 𝙧è𝙜𝙡𝙚𝙨 
+𝙉𝙀 𝙍𝙄𝙀𝙉 𝘾𝙃𝘼𝙉𝙂𝙀𝙍 𝙅'𝘼𝙄 𝙏𝙍𝘼𝙑𝘼𝙄𝙇𝙇𝙀𝙍 𝘿𝙐𝙍𝙀 𝙋𝙊𝙐𝙍 𝙇𝙀 𝘾𝙍𝙀𝙀𝙍 𝘿𝙊𝙉𝘾 𝙉𝙀 𝘾𝙃𝘼𝙉𝙂𝙀𝙍 𝙍𝙄𝙀𝙉
+𝙊𝙒𝙉𝙀𝙍 𝙁𝘼𝘾𝘽𝙊𝙊𝘾𝙆: https://www.facebook.com/more.sidibe.1?mibextid=JRoKGi
+# 𝙅'𝘼𝙄 𝘾𝙍𝙀𝙀𝙍 𝘾𝙀 𝘽𝙊𝙏 𝙏𝙊𝙐𝙏 𝙎𝙀𝙐𝙇 𝙉𝙀 𝘾𝙃𝘼𝙉𝙂𝙀𝙍 𝘾𝙍𝙀𝙀𝙍 𝙋𝙊𝙐𝙍 𝙏𝙊𝙄 𝙎𝙄 𝙏'𝙀𝙎 𝙏𝙍𝙊𝙋 𝙁𝙊𝙍𝙏 𝙈𝘿𝙍💢
+# 𝙈𝙀𝙍𝘾𝙄 𝘿𝙀 𝙍𝙀𝙎𝙋𝙀𝘾𝙏𝙀𝙍 𝙈𝙀𝙎 𝙍È𝙂𝙇𝙀 
+🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
