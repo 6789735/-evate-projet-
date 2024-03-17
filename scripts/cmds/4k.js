@@ -5,7 +5,7 @@ module.exports = {
     name: "4k",
     aliases: ["4k", "upscale"],
     version: "1.0",
-    author: "JARiF", //edit Aesther
+    author: "JARiF", //pharouk
     countDown: 15,
     role: 0,
     longDescription: "Upscale your image.",
@@ -25,7 +25,7 @@ module.exports = {
         imageUrl = replyAttachment.url;
       } else {
         return api.sendMessage(
-          { body: "❌ | Reply must be an image." },
+          { body: "💢| 𝙧𝙚𝙥𝙡𝙮 𝙢𝙪𝙨𝙩 𝙗𝙚 𝙖𝙣 𝙞𝙢𝙖𝙜𝙚." },
           event.threadID
         );
       }
