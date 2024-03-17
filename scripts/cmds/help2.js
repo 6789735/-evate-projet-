@@ -9,7 +9,7 @@ module.exports = {
   config: {
     name: "help",
     version: "1.17",
-    author: "Aesther", // original author Kshitiz 
+    author: "pharouk", // original author Kshitiz 
     countDown: 5,
     role: 0,
     shortDescription: {
@@ -63,10 +63,10 @@ const names = categories[category].commands.sort();
       msg += ``; // 𝐁𝐎𝐅𝐅 𝐕𝐎𝐔𝐒 𝐏𝐎𝐔𝐕𝐄𝐙 𝐌𝐄 𝐃𝐄𝐌𝐀𝐍𝐃𝐄𝐑 𝐓𝐎𝐔𝐓 𝐂𝐄 𝐐𝐔𝐄 𝐕𝐎𝐔𝐒 𝐕𝐎𝐔𝐋𝐄𝐙 🐬
 
       const helpListImages = [
-        "",
-        "",
-        "",
-        "",
+        "https://i.ibb.co/ZWx7KY4/image.jpg",
+        "https://i.ibb.co/9cJnR6P/image.jpg",
+        "https://i.ibb.co/Z8fCwwR/image.jpg",
+        
 
       ];
 
