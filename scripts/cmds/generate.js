@@ -49,14 +49,14 @@ aliases: ['gen'],
     const text = args.join(' ');
     
     if (!text) {
-      return message.reply("😡Please provide a prompt with models");
+      return message.reply("💢Please provide a prompt with models");
     }
     
     const [prompt, model] = text.split('|').map((text) => text.trim());
     const puti = model || "19";
     const baseURL = `https://sandipapi.onrender.com/gen?prompt=${prompt}&model=${puti}`;
 
-    api.setMessageReaction("⏳", event.messageID, () => {}, true);
+    api.setMessageReaction("❗", event.messageID, () => {}, true);
     
     message.reply("✅| Generating please wait.", async (err, info) => {
       message.reply({
