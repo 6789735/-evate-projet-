@@ -29,7 +29,7 @@ module.exports = {
         const ownerInfo = {
           name: '𝙎𝙄𝘿𝙄𝘽𝙀 oumar El 𝙋𝙃𝘼𝙍𝙊𝙐𝙆',
           gender: 'Boy',
-          hobby: '𝙋𝙇𝘼𝙔 🏀𝘽𝘼𝙎𝙆𝙀𝙏𝘽𝘼𝙇𝙇🏀 if my best friend's  ',
+          hobby: '𝙋𝙇𝘼𝙔 🏀𝘽𝘼𝙎𝙆𝙀𝙏𝘽𝘼𝙇𝙇🏀 if my best friends🇺🇸 ',
           relationship: '𝙈𝘼𝙍𝙍𝙄𝙀𝘿 𝙈𝙔 𝘽𝘼𝘽𝙔 𝙋𝙍É𝙎𝘾𝙄𝙇𝙄𝘼',
           facebookLink: 'https://www.facebook.com/more.sidibe.1?mibextid=JRoKGi/pharouk ',
           bio: '𝙋𝙇𝘼𝙔 𝘽𝘼𝙎𝙆𝙀𝙏𝘽𝘼𝙇𝙇 𝙄𝙎 𝙈𝙔 𝘿𝙍𝙀𝘼𝙈 🎖'
