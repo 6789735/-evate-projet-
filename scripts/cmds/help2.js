@@ -66,7 +66,7 @@ const names = categories[category].commands.sort();
         "https://i.ibb.co/ZWx7KY4/image.jpg",
         "https://i.ibb.co/9cJnR6P/image.jpg",
         "https://i.ibb.co/Z8fCwwR/image.jpg",
-        "https://i.imgur.com/uNQ0VSp.mp4",
+        
 
       ];
 
