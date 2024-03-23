@@ -27,12 +27,12 @@ module.exports = {
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: '𝙎𝙄𝘿𝙄𝘽𝙀 oumar El 𝙋𝙃𝘼𝙍𝙊𝙐𝙆',
+          name: '🟢𝙎𝙄𝘿𝙄𝘽𝙀 oumar El 𝙋𝙃𝘼𝙍𝙊𝙐𝙆⚪',
           gender: 'Boy',
-          hobby: '𝙋𝙇𝘼𝙔 🏀𝘽𝘼𝙎𝙆𝙀𝙏𝘽𝘼𝙇𝙇🏀 if my best friends🇺🇸 ',
-          relationship: '𝙈𝘼𝙍𝙍𝙄𝙀𝘿 𝙈𝙔 𝘽𝘼𝘽𝙔 𝙋𝙍É𝙎𝘾𝙄𝙇𝙄𝘼',
+          hobby: '𝙋𝙇𝘼𝙔 🏀𝘽𝘼𝙎𝙆𝙀𝙏𝘽𝘼𝙇𝙇🏀 with my best friends🇺🇸 ',
+          relationship: '𝙈𝘼𝙍𝙍𝙄𝙀𝘿 with 𝙈𝙔 𝘽𝘼𝘽𝙔 𝙋𝙍É𝙎𝘾𝙄𝙇𝙄𝘼',
           facebookLink: 'https://www.facebook.com/more.sidibe.1?mibextid=JRoKGi/pharouk ',
-          bio: '𝙋𝙇𝘼𝙔 𝘽𝘼𝙎𝙆𝙀𝙏𝘽𝘼𝙇𝙇 𝙄𝙎 𝙈𝙔 𝘿𝙍𝙀𝘼𝙈 🎖'
+          bio: '𝙋𝙇𝘼𝙔 𝘽𝘼𝙎𝙆𝙀𝙏𝘽𝘼𝙇𝙇 is 𝙈𝙔 𝘿𝙍𝙀𝘼𝙈 🎖'
         };
 
         const videoUrl = 
@@ -60,7 +60,7 @@ module.exports = {
         fs.writeFileSync(videoPath, Buffer.from(videoResponse.data, 'binary'));
 
         const response = `
-          𝗼𝘄𝗻𝗲𝗿 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:
+          𝗼𝘄𝗻𝗲𝗿 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻📑:
 ⊰⚪_________
 (◍•ᴗ•◍)𝗡𝗔𝗠𝗘 : ${ownerInfo.name}
 ⊰🟢__________
