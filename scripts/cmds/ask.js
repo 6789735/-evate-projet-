@@ -31,7 +31,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("🏅𝙋𝙝𝙖𝙧𝙤𝙪𝙠🏅       ಥ⁠‿⁠ಥ.......? ᎽᎾᏬᏒ ᏅᏬᎬᏕᎿᎨᎾᏁ");
+        await message.reply("⚪𝙋𝙃𝘼𝙍𝙊𝙐𝙆🟢 \n.....................\n you question (⁠･ั⁠ω⁠･ั⁠).......?  ");
         return;
       }
 
@@ -40,10 +40,10 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `🏅ᏢᎻᎯᏒᎾᏬᏦ🏅
+    await message.reply({ body: `,🟢𝙋𝙃𝘼𝙍𝙊𝙐𝙆⚪
 ______________________________  
 ${answer}
-(*・_・)ノ 🏅𝘿𝙖𝙚𝙢𝙤𝙣-𝙤𝙚🏅`,
+(*・_・)ノ 🔴𝘿𝙖𝙚𝙢𝙤𝙣-𝙤𝙚🔵`,
 });
 
    } catch (error) {
