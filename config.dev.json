@@ -1,4 +1,4 @@
-{
+
   "facebookAccount": {
     "email": "",
     "password": "",
@@ -17,14 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100065176744106"
+    "98765432100232"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🥉𝙋𝙃𝘼𝙍𝙊𝙐𝙆🥉",
+  "nickNameBot": "ᎬႮΝᏆᏟᎬ ᏞϴႮᏆՏᏆᎪΝᎪ ",
   "prefix": "∆",
   "database": {
     "type": "sqlite",
